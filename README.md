@@ -5,7 +5,10 @@
   <li>I intend to start in the world of programming</li>
 </ul> 
 
-<a href="https://cmspweb.ip.tv/">testando codigos</a>
+**You can get in touch📫 by:**
+<ul>
+  <li>gmail: scramindanilo@gmail.com
+</ul> 
 
 <!--
 **DanOraSc/DanOraSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
